@@ -1,7 +1,7 @@
 
 
 Welcome to our Organization!!!
-These are the list of all the employees who are workin in our company.
+These are the list of all the employees who are working in our company.
 
 Kiran Kumar Chenna
 Rajini Chenna 
@@ -9,3 +9,7 @@ Shran Chenna
 Raju Chenna
 Sujatha Somadula
 Sagar Somadula
+
+Shalini Dasari
+Malavika Dasari
+
